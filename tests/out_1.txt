@@ -1,0 +1,5 @@
+OSY: lada
+PA1: honza, lada, mirek, pepa
+PA2: honza, lada, pepa
+PJP: honza
+PJV: mirek
