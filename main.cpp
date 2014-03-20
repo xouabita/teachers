@@ -110,6 +110,8 @@ bool transform (const char * inFile, const char * outFile) {
 #ifndef __PROGTEST__
 int main (int argc, char * argv []) {
 
+  transform (argv[1],argv[2]);
+
   return 0;
 }
 #endif
